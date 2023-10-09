@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Discipline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>луаьмул</Name>
+  <Semester>1-ый семестр</Semester>
+  <Course>
+    <string>1-ый курс</string>
+  </Course>
+  <Speciality>
+    <string>ПОИТ</string>
+  </Speciality>
+  <NumberOfLections>100</NumberOfLections>
+  <NumberOfLabs>100</NumberOfLabs>
+  <Control>зачёт</Control>
+  <lector>
+    <Department>Информационных систем и технологий</Department>
+    <Name>ф.м.мфавы</Name>
+    <Auditorium>100</Auditorium>
+  </lector>
+</Discipline>
